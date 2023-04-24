@@ -25,4 +25,6 @@ Training generates several outputs:
 * folder containing a checkpoint of the model
 * folder containing a generated samples
 
+For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but training is very slow.
+
 The main dependencies are torch, numpy, pandas, matplotlib.
