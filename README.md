@@ -51,7 +51,7 @@ This implementation is based on the open-source code from [TransGAN](https://git
 
 ## Citation
 ```bash
-@inproceedings{madane2023transformer,
+@article{madane2023transformer,
   title={Transformer-based Conditional Generative Adversarial Network for Multivariate Time Series Generation},
   author={Madane, Abdellah and Dilmi, Mohamed-djallel and Forest, Florent and Azzag, Hanane and Lebbah, Mustapha and Lacaille, Jerome},
   booktitle={International Workshop on Temporal Analytics},
