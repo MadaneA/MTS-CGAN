@@ -50,7 +50,7 @@ The main dependencies are:
 This implementation is based on the open-source code from [TransGAN](https://github.com/VITA-Group/TransGAN) and [TTSGAN](https://github.com/imics-lab/tts-gan). We would like to express our gratitude for their contribution to the research community.
 
 ## Citation
-
+```bash
 @inproceedings{madane2023transformer,
   title={Transformer-based Conditional Generative Adversarial Network for Multivariate Time Series Generation},
   author={Madane, Abdellah and Dilmi, Mohamed-djallel and Forest, Florent and Azzag, Hanane and Lebbah, Mustapha and Lacaille, Jerome},
@@ -58,5 +58,5 @@ This implementation is based on the open-source code from [TransGAN](https://git
   organization={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
   year={2023}
 }
-
+```
 
