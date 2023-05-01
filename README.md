@@ -25,7 +25,7 @@ The implementation is divided into several scripts:
 To train the MTS-CGAN model using the configuration parameters in `MTSCGAN_Train.py`, use the following command:
 ```bash
 $ python3 MTSCGAN_Train.py
-
+```
 The dataset is downloaded automatically.
 
 Training generates several outputs:
