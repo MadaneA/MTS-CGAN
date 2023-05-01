@@ -1,7 +1,7 @@
 # MTS-CGAN
 Transformer-based Conditional Generative Adversarial Network for Multivariate Time Series Generation
 
-This repository contains the code for the MTSCGAN model, developed for an article presented at the International Workshop on Temporal Analytics @PAKDD 2023. The model is designed for the conditional generation of realistic multivariate time series data. 
+This repository contains the code for the MTS-CGAN model, developed for an article presented at the International Workshop on Temporal Analytics @PAKDD 2023. The model is designed for the conditional generation of realistic multivariate time series data. 
 ## Table of Contents
 
 - [Quick Start](#quick-start)
